@@ -1,7 +1,7 @@
 name: juddsports
 favicon: null
-layout_spectrum: 0.536004472989589
-typography_spectrum: 0.5043504184577614
+layout_spectrum: 0.38777
+typography_spectrum: 0.85299
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.11425540712662041
-  lightness: 0.694813872454688
-  saturation: 0.2759775836020708
-  rhythmicContrast: 0.0019334121607244015
+  brandStrength: 1
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
