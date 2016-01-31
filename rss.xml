@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[juddsports]]></title>
+        <description><![CDATA[juddsports]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 31 Jan 2016 21:46:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gary Bettman signs new contract through 2022 (and next lockout)]]></title>
+            <description><![CDATA[<article><h1>Gary Bettman signs new contract through 2022 (and next lockout)</h1><p>NHL commissioner Gary Bettman has signed a contract extension that carries through the 2022 season, according veteran hockey scribe Michael Farber and John Shannon of Sportsnet. Shannon notes that this would mean 30 years at the helm for Bettman, which would match the 30 years his mentor David Stern had at the helm of the NBA.</p><img src="http://l2.yimg.com/bt/api/res/1.2/MwO7JGHIdg.y02aFxoMN_Q--/YXBwaWQ9eW5ld3NfbGVnbztmaT1maWxsO2g9Mzc3O3B4b2ZmPTUwO3B5b2ZmPTA7cT03NTt3PTY3MA--/http://media.zenfs.com/en_us/Sports/ap/201601301549569452670"></article>]]></description>
+            <link>http://sports.yahoo.com/blogs/nhl-puck-daddy/gary-bettman-signs-new-contract-through-2022--and-next-lockout-162219180.html</link>
+            <guid isPermaLink="false">2f15389b-fd41-43e0-b949-ca007cea8055</guid>
+            <pubDate>Sun, 31 Jan 2016 21:46:52 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
