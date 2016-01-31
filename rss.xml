@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[juddsports]]></title>
         <description><![CDATA[juddsports]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/juddsports/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jan 2016 21:46:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 31 Jan 2016 21:50:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/juddsports/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This is my new website]]></title>
+            <description><![CDATA[<article><h1>This is my new website</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/36b5d529-1813-4da7-8528-7dc12e545848.jpg"></article>]]></description>
+            <link>https://thegrid.ai/juddsports/this-is-my-new-website/index.html</link>
+            <guid isPermaLink="false">21674c68-e19c-486b-8222-9a87ea165aa1</guid>
+            <pubDate>Sun, 31 Jan 2016 21:49:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Gary Bettman signs new contract through 2022 (and next lockout)]]></title>
-            <description><![CDATA[<article><h1>Gary Bettman signs new contract through 2022 (and next lockout)</h1><p>NHL commissioner Gary Bettman has signed a contract extension that carries through the 2022 season, according veteran hockey scribe Michael Farber and John Shannon of Sportsnet. Shannon notes that this would mean 30 years at the helm for Bettman, which would match the 30 years his mentor David Stern had at the helm of the NBA.</p><img src="http://l2.yimg.com/bt/api/res/1.2/MwO7JGHIdg.y02aFxoMN_Q--/YXBwaWQ9eW5ld3NfbGVnbztmaT1maWxsO2g9Mzc3O3B4b2ZmPTUwO3B5b2ZmPTA7cT03NTt3PTY3MA--/http://media.zenfs.com/en_us/Sports/ap/201601301549569452670"></article>]]></description>
+            <description><![CDATA[<article><h1>Gary Bettman signs new contract through 2022 (and next lockout)</h1><p>NHL commissioner Gary Bettman has signed a contract extension that carries through the 2022 season, according veteran hockey scribe Michael Farber and John Shannon of Sportsnet. Shannon notes that this would mean 30 years at the helm for Bettman, which would match the 30 years his mentor David Stern had at the helm of the NBA.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/96c2c95408115e7401392c7a061e74ecc65b7592.jpg"></article>]]></description>
             <link>http://sports.yahoo.com/blogs/nhl-puck-daddy/gary-bettman-signs-new-contract-through-2022--and-next-lockout-162219180.html</link>
             <guid isPermaLink="false">2f15389b-fd41-43e0-b949-ca007cea8055</guid>
             <pubDate>Sun, 31 Jan 2016 21:46:52 GMT</pubDate>
