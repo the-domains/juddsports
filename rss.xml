@@ -4,7 +4,7 @@
         <description><![CDATA[juddsports]]></description>
         <link>https://thegrid.ai/juddsports/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Feb 2016 00:49:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Feb 2016 00:50:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/juddsports/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This is my new website]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/juddsports/this-is-my-new-website/index.html</link>
             <guid isPermaLink="false">21674c68-e19c-486b-8222-9a87ea165aa1</guid>
             <pubDate>Sun, 31 Jan 2016 21:49:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Yahoo Fantasy Baseball]]></title>
+            <description><![CDATA[<article><h1>Yahoo Fantasy Baseball</h1><p>Yahoo Fantasy Baseball. Create or join a MLB league and manage your team with FREE live scoring, stats, scouting reports, news, and expert advice.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d950aa5ab39f968b07c278aeec394e64007e310.jpg"></article>]]></description>
+            <link>http://baseball.fantasysports.yahoo.com/b1</link>
+            <guid isPermaLink="false">5059fb41-b6af-4002-9912-0fcbebf9420f</guid>
+            <pubDate>Mon, 01 Feb 2016 00:49:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Homer History: Joe Blanton's improbable World Series blast]]></title>
